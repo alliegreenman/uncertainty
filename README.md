@@ -1,2 +1,2 @@
-# uncertainty
-time allocation with uncertainty
+####  readme 
+code for time allocation with uncertainty
